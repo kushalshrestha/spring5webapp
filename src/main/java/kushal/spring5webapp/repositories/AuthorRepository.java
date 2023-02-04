@@ -1,6 +1,6 @@
-package guru.springframework.spring5webapp.repositories;
+package kushal.spring5webapp.repositories;
 
-import guru.springframework.spring5webapp.domain.Author;
+import kushal.spring5webapp.domain.Author;
 import org.springframework.data.repository.CrudRepository;
 
 public interface AuthorRepository extends CrudRepository<Author, Long> {

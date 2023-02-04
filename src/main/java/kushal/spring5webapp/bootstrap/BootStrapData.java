@@ -1,11 +1,11 @@
-package guru.springframework.spring5webapp.bootstrap;
+package kushal.spring5webapp.bootstrap;
 
-import guru.springframework.spring5webapp.domain.Author;
-import guru.springframework.spring5webapp.domain.Book;
-import guru.springframework.spring5webapp.domain.Publisher;
-import guru.springframework.spring5webapp.repositories.AuthorRepository;
-import guru.springframework.spring5webapp.repositories.BookRepository;
-import guru.springframework.spring5webapp.repositories.PublisherRepository;
+import kushal.spring5webapp.domain.Author;
+import kushal.spring5webapp.domain.Book;
+import kushal.spring5webapp.domain.Publisher;
+import kushal.spring5webapp.repositories.AuthorRepository;
+import kushal.spring5webapp.repositories.BookRepository;
+import kushal.spring5webapp.repositories.PublisherRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp.domain;
+package kushal.spring5webapp.domain;
 
 import jakarta.persistence.*;
 
